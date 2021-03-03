@@ -63,4 +63,25 @@ o	The platform serving the organization for offering training opportunities.
 o	The platform serving the organization supervisor to facilitate communicating with university supervisor.
 
 
+	Functional requirements: 
+  
+1-Functional requirement for the system 
+•	The system allows users to register on the platform.
+•	The system allows users to log in to the platform.
 
+2-	Functional requirement for the student 
+• The system allows the student to search for all suitable organization for training.
+• The system allows the student to choose more than one training organization and choose between them.
+• The system allows the student to write the weekly training report and upload it to the platform.
+
+3-	Functional requirement for the organization 
+• The system allows organizations to offer training opportunities. 
+• The system allows organizations to evaluate students and choose between them according to their CV and personal skills.
+
+4-	Functional requirement for the university supervisor
+• The system allows supervisors of students from universities to follow up the student’s evaluation and progress.
+• The system allows supervisors of students from the university to communicate with supervisors of students from the organization.
+
+5-	 Functional requirement for the organization supervisor
+• The system allows supervisors of students from the organization to evaluate students periodically.
+• The system allows supervisors to write a training plan and assign tasks to the student.

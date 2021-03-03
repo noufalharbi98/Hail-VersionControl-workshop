@@ -85,3 +85,20 @@ o	The platform serving the organization supervisor to facilitate communicating w
 5-	 Functional requirement for the organization supervisor
 • The system allows supervisors of students from the organization to evaluate students periodically.
 • The system allows supervisors to write a training plan and assign tasks to the student.
+
+
+Non-functional requirements:
+
+1-	Performance and speed
+The platform performance and speed must be high. 
+
+2-	Ease of use
+The platform allows all users to deal and interact with the system very easily.
+
+3-	Security and privacy 
+The platform must be secure to protect user’s information. 
+
+4-	Reliability 
+the platform must be reliable because the student graduation depending on the training. 
+•	The system must ensure the existence of users through registration.
+•	The system displays a message to the trainee when accepting or not accepting the student directly. 

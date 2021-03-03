@@ -30,3 +30,20 @@ Overall description
 The cooperative training is a platform that enables the student to search for suitable training places and approval for his/her major.
 And enables companies to offer training opportunities to students. 
 The student supervisors from the university were also able to communicate with the student supervisors from the place of training and follow up on their progress.
+
+
+Project functions 
+
+For organization: 
+•	The organization will be able to add training opportunity. 
+•	The organization will be able to check applying requests.
+•	The organization will be able to approve or reject a trainee.
+For students:
+•	The student will be able to search for an organization. 
+•	The student will be able to apply for many organizations until approved in one of them. 
+For university supervisor: 
+•	The university supervisor will be able to check student progress.
+•	The university supervisor will be able to communicate with organization supervisor. 
+For organization supervisor:
+•	The organization supervisor will be able to write student progress. 
+•	The organization supervisor will be able to communicate with university supervisor.
